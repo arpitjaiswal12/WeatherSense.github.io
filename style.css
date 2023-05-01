@@ -1,0 +1,19 @@
+.card{
+    margin: 20px;
+    border: 1px solid black;
+}
+#app_logo{
+    width: 50px;
+    margin: 0px 10px;
+}
+.btn-1{
+    background: transparent;
+    color: black;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 18px;
+}
+.enable-mode img{
+    width: 50px;
+}
